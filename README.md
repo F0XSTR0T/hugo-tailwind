@@ -16,13 +16,13 @@
 
 ## Modify into tailwind.config.js
 
-> module.exports = {
->  content: ["content/**/*.md", "layouts/**/*.html"],
->  theme: {
->    extend: {},
->  },
->  plugins: [],
-> };
+  module.exports = {
+  content: ["content/**/*.md", "layouts/**/*.html"],
+  theme: {
+    extend: {},
+  },
+  plugins: [],
+ };
 
 
 ## Create input.css at the root and add the following lines
