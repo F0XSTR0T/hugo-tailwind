@@ -1,17 +1,27 @@
 # hugo-tailwind
 
+### Use Tailwind CSS V3 on a Hugo project
+
+
 ## Create a new site with HUGO GO
 
-> hugo new site *NomDuSIte* --format json
+```
+hugo new site *NomDuSIte* --format json
+```
+
 
 ## Add Packages
 
-> npm install -D tailwindcss prettier prettier-plugin-tailwindcss npm-run-all
+```
+npm install -D tailwindcss prettier prettier-plugin-tailwindcss npm-run-all
+```
 
 
 ## TailwindCSS Config
 
-> npx tailwindcss init
+```
+npx tailwindcss init
+```
 
 
 ## Modify into tailwind.config.js
