@@ -27,9 +27,9 @@
 
 ## Create input.css at the root and add the following lines
 
-> @tailwind base;
-> @tailwind components;
-> @tailwind utilities;
+- @tailwind base;
+- @tailwind components;
+- @tailwind utilities;
 
 
 ## Your (root) layouts/index.html should looks like
